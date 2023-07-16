@@ -10,9 +10,8 @@ function App() {
         <Search />
     </div>
   );
-}
 
-<footer>
+  <footer>
        <a href="https://github.com/TesandriaP/vanilla-weather-app"
      target="_blank" rel="noopener">
       Open-source code</a> 
@@ -21,5 +20,6 @@ function App() {
             Penn626
       </em>
     </footer>
+}
 
 export default App;
