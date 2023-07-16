@@ -50,3 +50,12 @@ export default function Search() {
     return form;
   }
 }
+<footer>
+       <a href="https://github.com/TesandriaP/vanilla-weather-app"
+     target="_blank" rel="noopener">
+      Open-source code</a> 
+      by
+      <em>
+            Penn626
+      </em>
+    </footer>
